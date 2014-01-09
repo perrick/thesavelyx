@@ -1,0 +1,83 @@
+#% Do not delete the line below; configure depends on this
+#  \DeclareLaTeXClass[thesavelyx]{these (avec Lyx)}
+# Thesis (L3i formatting) textclass definition file.
+# Perrick Penet-Avez, December 2013
+# extended from work by Matthieu Perreira Da Silva, March 2010
+
+
+Format 11
+Input scrclass.inc
+Input numreport.inc
+
+Sides                   2
+PageStyle               Headings
+
+NoStyle Abstract
+NoStyle Editors
+NoStyle Publishers
+NoStyle Dedication
+NoStyle Titlehead
+NoStyle Uppertitleback
+NoStyle Lowertitleback
+NoStyle Extratitle
+NoStyle Right_Address
+
+Style Address
+	LatexName			  address
+End
+
+Style Chapter
+	LabelString          "\thechapter"
+End
+
+Style Bibliography
+	TopSep                4
+	LabelString           "Bibliography"
+	LabelFont
+	  Series              Bold
+	  Size                Largest
+	EndFont
+End
+
+Style Subparagraph
+	Font
+	  Shape              Slanted
+	EndFont
+End
+
+Style ResumeChapitre
+	NextNoIndent          1
+	ParSkip               0.4
+	TopSep                1.3
+	BottomSep             0.7
+	ParSep                0.7
+	Align                 Block
+	Font
+	  Family              Sans
+	  Series              Bold
+	  Size                Larger
+	EndFont
+	LatexType             Command
+	LatexName			  chapterSummary
+	LabelType			  Static
+	LabelString 		  "Points cles"
+	Margin				  Dynamic
+	KeepEmpty			  1
+	TocLevel              1
+End
+
+Style CoprsResumeChapitre
+	LatexType				Environment
+	LatexName			    chapterSummaryBody
+	LabelType				Static
+	LabelString				"Debut"
+	EndLabelType			Static
+	EndLabelString			"Fin"
+	Margin				  	Static
+	LeftMargin				"MMMM"
+	NextNoIndent          	1
+	KeepEmpty			  	1
+	LabelFont
+	  Color					red
+	EndLabelFont
+End

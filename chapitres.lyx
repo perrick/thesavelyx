@@ -1,0 +1,562 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass thesavelyx
+\use_default_options true
+\begin_modules
+customHeadersFooters
+\end_modules
+\maintain_unincluded_children false
+\language french
+\language_package default
+\inputencoding latin9
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing double
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices true
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 0
+\index Index des noms propres
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 3.5cm
+\topmargin 3cm
+\rightmargin 2.5cm
+\bottommargin 3cm
+\headheight 0.1cm
+\headsep 1cm
+\footskip 0.5cm
+\secnumdepth 2
+\tocdepth 2
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language french
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\bullet 0 0 0 -1
+\tracking_changes false
+\output_changes true
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Attention titre long: 
+\begin_inset Newline newline
+\end_inset
+
+puisque sur 2 lignes, et en gras
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+Attention titre long: puisque sur 2 lignes
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+chaptermark{Attention titre raccourci}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Proin eget orci ut sapien bibendum pretium.
+ Suspendisse at pulvinar mi, in convallis dolor.
+ Aliquam sapien ipsum, blandit in neque vitae, pretium porta purus.
+ Nulla ac nisl vitae enim feugiat pretium tempus et arcu.
+ In scelerisque diam venenatis, cursus mi malesuada, lobortis nunc.
+ Quisque sapien augue, porttitor sit amet metus at, sollicitudin gravida
+ nunc.
+ Nunc dui ligula, iaculis eu malesuada in, tempus vel nisl.
+ Aliquam convallis condimentum pellentesque.
+ Duis lorem odio, mattis vitae ullamcorper sit amet, mattis nec velit.
+ Vivamus cursus dictum massa, ac gravida mi egestas sit amet.
+ Sed vehicula, justo et iaculis commodo, eros nunc bibendum ipsum, sed condiment
+um tellus nibh sed orci
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset Quotes fld
+\end_inset
+
+(...) Cumque pertinacius ut legum gnarus accusatorem flagitaret atque sollemnia,
+ doctus id Caesar libertatemque superbiam ratus tamquam obtrectatorem audacem
+ excarnificari praecepit, qui ita evisceratus ut cruciatibus membra deessent.
+\begin_inset Quotes frd
+\end_inset
+
+ 
+\noun on
+
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+
+\noun off
+Non Ergo J.-P.
+\end_layout
+
+\end_inset
+
+J.-P.
+ 
+\noun off
+Non Ergo
+\noun default
+, 
+\emph on
+Qui ita evisceratus,
+\emph default
+ Paris, Atratino, 1942, p.
+\begin_inset space ~
+\end_inset
+
+222.
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+Etiam malesuada lectus a elementum aliquam.
+ Cras justo nisl, iaculis vel odio sit amet, porttitor imperdiet dui.
+ Maecenas nec dolor lacinia, mollis elit id, ultricies nisi.
+ Nulla facilisi.
+ Sed eleifend vulputate nisi nec tristique.
+ Quisque euismod molestie justo hendrerit semper.
+ Ut rutrum porta elementum.
+ Etiam et diam sit amet mi sodales aliquet.
+\end_layout
+
+\begin_layout Standard
+Suspendisse quis sagittis diam 
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+
+\noun on
+J.-P.
+ 
+\noun off
+Non Ergo
+\noun on
+
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+
+\noun off
+Non Ergo J.-P.
+\end_layout
+
+\end_inset
+
+ 
+\noun default
+(dir.), Torvum renidens, Introduction, Paris, Humanissimo, 1942, p.
+\begin_inset space ~
+\end_inset
+
+23.
+\end_layout
+
+\end_inset
+
+, lacus erat, aliquet a posuere sed, venenatis at ligula.
+ Pellentesque consequat justo at condimentum dignissim.
+ Cras placerat cursus ligula, eget euismod metus viverra eu.
+ Nam cursus turpis neque, quis aliquet est bibendum eget.
+ Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere
+ cubilia Curae; Duis quis commodo nibh.
+ Donec pharetra dui lorem, eget sagittis ante commodo in.
+ Curabitur scelerisque bibendum congue.
+ Donec sagittis purus vel quam fringilla vulputate.
+ Etiam vitae sagittis lacus.
+ Maecenas et pulvinar diam, eget sollicitudin nulla.
+ Integer ullamcorper dolor ornare tempus ornare.
+\end_layout
+
+\begin_layout Standard
+Vestibulum commodo lorem nec condimentum tempor.
+ Proin ante lacus, faucibus non vulputate ut, tristique sit amet libero.
+ Nam nisl neque, ultricies dapibus hendrerit quis, ultrices in libero.
+ Phasellus ac magna et velit malesuada imperdiet sit amet sed nulla.
+ Aliquam nec euismod felis.
+ Mauris varius sagittis erat, eget gravida purus rhoncus eget.
+ Quisque auctor erat enim, id dapibus lacus varius vitae.
+ Nunc venenatis hendrerit leo, eu hendrerit ante.
+\end_layout
+
+\begin_layout Section
+Section A
+\end_layout
+
+\begin_layout Subsection
+Sous-section A.1
+\end_layout
+
+\begin_layout Standard
+Ut pretium, sem eu interdum fringilla, metus risus viverra metus, at egestas
+ leo elit dapibus arcu.
+ Nulla vel est ac nulla pulvinar eleifend.
+ Aenean consequat dapibus leo, vitae congue justo elementum at.
+ Vestibulum feugiat quam vitae nisi lobortis, laoreet ornare lectus ultrices.
+ Etiam porta magna nec vestibulum volutpat.
+ Pellentesque nulla dolor, adipiscing in metus sit amet, tempus mattis dolor.
+ Fusce vel arcu eget lectus lacinia pulvinar.
+ Cras condimentum purus dictum, elementum metus ut, vehicula nunc.
+ Duis ut libero erat.
+ Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
+ ridiculus mus.
+ Ut dignissim nunc quis nulla ultricies, non lacinia lorem mattis.
+ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per
+ inceptos himenaeos.
+ 
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset Quotes fld
+\end_inset
+
+Ipse ab ullo diligatur, circumfluere omnibus copiis atque in omnium rerum
+ abundantia vivere ?
+\begin_inset Quotes frd
+\end_inset
+
+ in 
+\emph on
+Œuvres complètes de Quemquam
+\emph default
+, trad.
+ A.
+ Passus, Paris, Editeurs, 1842.
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Cras eleifend interdum quam, a molestie sem condimentum a.
+ Vestibulum pharetra consectetur rutrum.
+ Suspendisse ut odio ut nibh interdum mattis non vel massa.
+ Interdum et malesuada fames ac ante ipsum primis in faucibus.
+ Curabitur tristique nibh quis lectus feugiat rhoncus.
+ Suspendisse potenti.
+ Nullam dolor nulla, tincidunt in placerat sed, consectetur eget lorem.
+ Sed hendrerit sapien orci, nec cursus nisl commodo vel.
+ Nullam congue arcu vitae mattis sollicitudin.
+ Vestibulum auctor enim a varius suscipit.
+ Nam metus purus, mattis id scelerisque at, fringilla vel purus.
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere
+ cubilia Curae; Cras congue quis tortor non volutpat.
+ Integer congue tortor nisi, in hendrerit tellus auctor at.
+ Donec et elit vitae libero pharetra viverra.
+\end_layout
+
+\begin_layout Subsection
+Sous-section A.2
+\end_layout
+
+\begin_layout Standard
+Ut ornare dui id arcu iaculis tincidunt.
+ Phasellus quis facilisis augue.
+ Nam tempus accumsan volutpat.
+ Morbi sed tempus ante.
+ Fusce fringilla, eros sed dapibus mattis, arcu arcu luctus nibh, ac tempus
+ metus nulla at risus.
+ Ut non tortor vitae libero varius fringilla.
+ Praesent eu risus ac augue molestie euismod.
+ Morbi euismod scelerisque semper
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Voir notre introduction.
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Subsection
+Encore une sous-section A.3
+\end_layout
+
+\begin_layout Standard
+Integer ac tincidunt augue, eu faucibus eros.
+ Aenean vel nisi nulla.
+ Donec congue elit ut felis iaculis congue.
+ Suspendisse venenatis est ut enim suscipit scelerisque.
+ Nam in adipiscing nulla, nec porttitor risus.
+ Sed at volutpat nisl.
+ Nulla eget velit in sem fringilla aliquam in non tellus.
+ Nulla vehicula mattis nibh, ut facilisis neque tempus in 
+\emph on
+Nec sane haec
+\emph default
+ :
+\end_layout
+
+\begin_layout Quotation
+\begin_inset Quotes fld
+\end_inset
+
+Lorem Ipsum thalassius vero ea tempestate praefectus praetorio praesens
+ ipse quoque adrogantis ingenii, considerans incitationem eius ad multorum
+ augeri discrimina, non maturitate vel consiliis mitigabat, ut aliquotiens
+ celsae potestates iras principum molliverunt, sed adversando iurgandoque
+ cum parum congrueret, eum ad rabiem potius evibrabat.
+\begin_inset Quotes frd
+\end_inset
+
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+
+\size normal
+\emph on
+\color none
+Nec sane haec
+\emph default
+
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Consiliis
+\end_layout
+
+\end_inset
+
+, trad.
+ M.
+ Praesens, 
+\size default
+\color inherit
+Paris, 
+\size normal
+\color none
+Librairie, 2042, p.
+\begin_inset space ~
+\end_inset
+
+249.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Nunc consectetur purus sed scelerisque sagittis.
+ Fusce malesuada tortor eu enim lobortis suscipit.
+ Pellentesque vestibulum velit vehicula lacus feugiat laoreet.
+ Donec adipiscing odio quis ante sollicitudin malesuada.
+ Morbi vitae nibh a nisl vehicula pharetra eu eget lorem.
+ Etiam volutpat eros sit amet consectetur sollicitudin.
+ Nam convallis suscipit massa, in fermentum velit lobortis at.
+ Praesent enim erat, vehicula quis faucibus sit amet, lacinia sit amet sapien.
+\end_layout
+
+\begin_layout Section
+Section B
+\end_layout
+
+\begin_layout Standard
+Quisque pulvinar egestas est in lobortis.
+ In bibendum ullamcorper ipsum ac rhoncus.
+ Mauris lorem sapien, elementum at suscipit vel, porttitor at justo.
+ Mauris sit amet augue non felis sagittis porttitor ultricies in magna.
+ Aenean sed massa turpis.
+ Curabitur at luctus leo, a fringilla nulla.
+ Mauris pellentesque dui sed tellus cursus viverra.
+ Nam euismod massa vitae libero tincidunt, at posuere nibh vulputate.
+ Donec congue scelerisque risus, at vulputate tortor tempor et.
+ Duis non ante ultricies, consequat quam ut, condimentum justo.
+\end_layout
+
+\begin_layout Subsection
+Sous-section B.1
+\end_layout
+
+\begin_layout Standard
+Vivamus sit amet turpis sit amet sapien posuere convallis.
+ Etiam eu mi mauris.
+ Ut fermentum fermentum justo, nec tristique felis facilisis a.
+ Nullam laoreet lectus nec velit dapibus, vel interdum metus blandit.
+ Sed dignissim tortor ac interdum porttitor.
+ Duis tincidunt erat et iaculis vestibulum.
+ Praesent congue dolor a mi adipiscing ultricies.
+ Donec odio dolor, porta sed lacinia nec, tristique eget turpis.
+ Phasellus malesuada molestie arcu id interdum.
+ Sed est metus, commodo vitae fringilla pharetra, placerat a felis.
+ Fusce feugiat eros at viverra condimentum.
+ Etiam a nibh elementum, facilisis ligula ut, adipiscing lacus.
+ Nam quam tellus, luctus sed mi non, feugiat vehicula justo.
+ Ut tincidunt sapien eu libero hendrerit adipiscing.
+ Nullam fermentum elit a ultricies eleifend.
+ Etiam semper faucibus risus, a pulvinar augue porta at.
+\end_layout
+
+\begin_layout Section
+Normalement les titres 
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+y compris avec des notes de bas de page contenant Un Auteur
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Auteur U.
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+N'ont plus de secret
+\end_layout
+
+\begin_layout Standard
+Nec sane haec sola pernicies orientem diversis cladibus adfligebat.
+ Namque et Isauri, quibus est usitatum saepe pacari saepeque inopinis excursibus
+ cuncta miscere, ex latrociniis occultis et raris, alente inpunitate adulescente
+m in peius audaciam ad bella gravia proruperunt, diu quidem perduelles spiritus
+ inrequietis motibus erigentes, hac tamen indignitate perciti vehementer,
+ ut iactitabant, quod eorum capiti quidam consortes apud Iconium Pisidiae
+ oppidum in amphitheatrali spectaculo feris praedatricibus obiecti sunt
+ praeter morem :
+\end_layout
+
+\begin_layout Quotation
+\begin_inset Quotes fld
+\end_inset
+
+(...) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ Curabitur non malesuada arcu, et scelerisque tortor.
+ Vestibulum et tincidunt orci.
+ Ut eu ipsum erat.
+ In et ornare orci.
+ Aliquam consectetur lobortis odio, ac convallis dui venenatis quis.
+ Aenean feugiat dui eleifend quam elementum molestie.
+ Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
+ ridiculus mus.
+ Suspendisse accumsan massa eros.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Lorem ipsum dont H.
+ Narravimus
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Narravimus H.
+\end_layout
+
+\end_inset
+
+ déplorait l'absence: 
+\end_layout
+
+\begin_layout Quotation
+« Batnae municipium in Anthemusia conditum Macedonum manu priscorum ab Euphrate
+ flumine brevi spatio disparatur, refertum mercatoribus opulentis, ubi annua
+ sollemnitate prope Septembris initium mensis ad nundinas magna promiscuae
+ fortunae convenit multitudo ad commercanda quae Indi mittunt et Seres aliaque
+ plurima vehi terra marique consueta. »
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+H.
+ Narravimus, 
+\emph on
+Habiturum spei fuisse
+\emph default
+, Lille, Berlioz Editeurs, 1959, p.
+ 105.
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\end_body
+\end_document
